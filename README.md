@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manali Lamture
-- 📫 How to reach me  LamtureManali@gmail.com
+- 📫 How to reach me  Lamturemanali@gmail.com
 
 <!---
 Manali-26/Manali-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
